@@ -1,0 +1,45 @@
+body {
+background-color: black;
+
+}
+
+h1,h2 {
+color: white;
+font-family: verdana;
+text-align: center;
+}
+
+h1 {
+font-weight: normal;
+font-size: 50px;
+}
+
+h2 {
+font-weight: 300;
+font-size: 42px;
+}
+
+p {
+font-size: 21px;
+color:gray;
+text-align: center;
+font-family: verdana;
+}
+
+.link {
+text-align: center;
+font-family: verdana;
+font-size: 18px;
+}
+
+a{
+color: aquamarine;
+}
+
+.video {
+text-align: center;
+}
+
+.camp-image {
+text-align: center;
+}
