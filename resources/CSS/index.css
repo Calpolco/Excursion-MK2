@@ -43,3 +43,14 @@ text-align: center;
 .camp-image {
 text-align: center;
 }
+
+.Phoneicon {
+text-align: center;
+padding-top: 20px;
+}
+
+.copyright p {
+  font-size: 16px;
+  text-align: right;
+
+}
